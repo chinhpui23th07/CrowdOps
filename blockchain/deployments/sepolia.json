@@ -1,0 +1,12 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployer": "0x127F62fA5aBD4A386AC8133464D03A3ff81EACff",
+  "crowdOps": "0xf1f014D6e5F50C1Db64BEF1d2B1de55F756F00da",
+  "diamondNFT": "0xdf2610f410c7F8ce43167Af45DCF44661EeB6bF9",
+  "tokenFactory": "0xb5c83d99C0619ee686fA5b1CC8aCb5d38725cAD5",
+  "deployTxHash": "0xa8ca00407033e3d8431a03a97f440c5fd8f845f1ee527af2271e257b63006d70",
+  "deployBlock": 12056165,
+  "gasUsed": "53783732",
+  "deployedAt": "2026-11-03T15:26:06.468Z"
+}

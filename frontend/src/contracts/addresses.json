@@ -1,0 +1,16 @@
+{
+  "31337": {
+    "network": "localhost",
+    "crowdOps": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+    "diamondNFT": "0x9bd03768a7DCc129555dE410FF8E85528A4F88b5",
+    "deployBlock": 34,
+    "deployTxHash": "0xf99d55c6d91c9649f161bf14fc94ef48c9275098918a0576d69267207c8269b3"
+  },
+  "11155111": {
+    "network": "sepolia",
+    "crowdOps": "0xf1f014D6e5F50C1Db64BEF1d2B1de55F756F00da",
+    "diamondNFT": "0xdf2610f410c7F8ce43167Af45DCF44661EeB6bF9",
+    "deployBlock": 12056165,
+    "deployTxHash": "0xa8ca00407033e3d8431a03a97f440c5fd8f845f1ee527af2271e257b63006d70"
+  }
+}

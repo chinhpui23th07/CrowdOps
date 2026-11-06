@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+dist/
+
+# Hardhat
+blockchain/artifacts/
+blockchain/cache/
+blockchain/coverage/
+blockchain/coverage.json
+blockchain/typechain-types/
+blockchain/deployments/localhost.json
+blockchain/deployments/hardhat.json
+
+# Key server - chứa khóa giải mã tài liệu riêng, tuyệt đối không commit
+server/data/

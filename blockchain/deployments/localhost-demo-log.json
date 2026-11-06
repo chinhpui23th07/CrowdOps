@@ -1,0 +1,211 @@
+{
+  "network": "localhost",
+  "crowdOps": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+  "runAt": "2026-11-03T15:19:34.353Z",
+  "log": [
+    {
+      "label": "Tạo chiến dịch \"Máy lọc nước cho điểm trường\"",
+      "hash": "0x8673e56a3e2fcc680284b4942b5823cd7c4c4b054981e95b0efc29bbbbdbe594",
+      "block": 35,
+      "from": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "label": "Alice góp 5 đơn vị",
+      "hash": "0xdb8f754025db9f21f28db70199cad7a46992e7d2e4f2c121f7a22a4132b29949",
+      "block": 36,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Bob góp 3 đơn vị",
+      "hash": "0x52934cf271fa0273b75e5c002a861e61515f6785a6e859868b69b8e0c2777a5f",
+      "block": 37,
+      "from": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "label": "Carol góp 2 đơn vị",
+      "hash": "0x1a287264220efbdb90f39ac90f000dce8d15cea7013eb7b3aab1ced30fff1194",
+      "block": 38,
+      "from": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
+    },
+    {
+      "label": "Tạo chiến dịch \"Thư viện sách cũ\"",
+      "hash": "0xa2aceeae9c95c0ca8e22f6408211f2b2e48b35bc9976df8d2644148413f63c71",
+      "block": 39,
+      "from": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "label": "Alice góp 1 đơn vị",
+      "hash": "0xc0a9fcc43f4809c05e88529bf28e28c125ef50e404246253f9cc355728f0b6be",
+      "block": 40,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Bob góp 1 đơn vị",
+      "hash": "0x94ecfd2421626cd0d9ec4f276d23f543d7176d4a50bb7c8b12d0c6c5c9bb6b43",
+      "block": 41,
+      "from": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "label": "Tạo chiến dịch \"Vườn ươm cây cho xã ven biển\"",
+      "hash": "0xd3a4f25d3c031605ab4d0a7c51b774ff4856aea34f8a1ac8f862a3c306366ac5",
+      "block": 42,
+      "from": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "label": "Alice góp 2 đơn vị",
+      "hash": "0xfa39fa0addd64e17fc5a25e01825268b0798b3f439e9a7312c8408cfdd6e1341",
+      "block": 43,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Bob góp 1 đơn vị",
+      "hash": "0xc981ed0dc2beb8b4a29a6cf4668c6740dd689df3edff08f102e50a1dfb4419ef",
+      "block": 44,
+      "from": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "label": "Carol góp 1 đơn vị",
+      "hash": "0x38cc8e8350e715d23b58a1283feefd8f71ce354c1bb371385ee59c024995e97d",
+      "block": 45,
+      "from": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
+    },
+    {
+      "label": "Chốt chiến dịch 1 (Thành công)",
+      "hash": "0x1b04120dcfe6629c524a4bf32095b801375d1959877869cf682f1218eaad2472",
+      "block": 47,
+      "from": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
+    },
+    {
+      "label": "Chốt chiến dịch 2 (Thất bại)",
+      "hash": "0x238f81672b143e064daa9925c9c8663439a4ca862d9f26cd3ef8bab7896707a3",
+      "block": 48,
+      "from": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
+    },
+    {
+      "label": "Alice nhận hoàn tiền",
+      "hash": "0x0598a12c2d12a701e7ddecc6e642aafe4092988645bde0893d30eb4a72a0d0eb",
+      "block": 49,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Bob nhận hoàn tiền",
+      "hash": "0x97d912ad4b9c4b12883b01717a4a88125082362541f0a47e184db7d7e22806b7",
+      "block": 50,
+      "from": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "label": "Yêu cầu chi đáng ngờ: 9 đơn vị về ví lạ",
+      "hash": "0x1246079326ffce610e88062c18ee591ef9e332aaaa1a19cd578502cd98189606",
+      "block": 51,
+      "from": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "label": "Alice bỏ phiếu Reject",
+      "hash": "0x9f0d2a65acf8b3b2db6fc5bfbb007f66185606e8de77c6d550134dd30c863524",
+      "block": 52,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Yêu cầu chi hợp lệ: 4 đơn vị mua máy lọc nước",
+      "hash": "0xfc0cde0e761a8240412ba7684c67f8e9c75d87f687c08dbd70c75f7e63378393",
+      "block": 53,
+      "from": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "label": "Bob bỏ phiếu Approve",
+      "hash": "0x149cd02c3d0694b41de1d423e23ee404bc2bf3c314f8bb596195c8f5f4f886ca",
+      "block": 54,
+      "from": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "label": "Carol bỏ phiếu Reject",
+      "hash": "0x7f5529e01c232575f8ed2356b1693db71eddc628ecf799b5ca680dc6a9d861a7",
+      "block": 55,
+      "from": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
+    },
+    {
+      "label": "Alice bỏ phiếu Approve (8/10 > 50%)",
+      "hash": "0x8e007381e03d64abd5c942ed29421849c7eac7a953d8367873abd888f4569504",
+      "block": 56,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Chủ dự án giải ngân yêu cầu #1",
+      "hash": "0x8bfef82cc80d4fc67091b7e55a631aecf6c03b4fade79d1c7e0575467e9eeb24",
+      "block": 57,
+      "from": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "label": "Alice nhận NFT Kim cương",
+      "hash": "0x7f2d69f6ff8531cf41cb3d95fc16128ff73a3f8981d41fb7a405e2979f410f6f",
+      "block": 58,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Chốt chiến dịch 3 (Thành công)",
+      "hash": "0xe79d3dc28209104f8477055d5350edaf886942253f6b93e0c02ab68aa5bcd546",
+      "block": 59,
+      "from": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
+    },
+    {
+      "label": "Yêu cầu chi đợt 1: 1 đơn vị mua cây giống",
+      "hash": "0xda26fa8bfc96e4e17e00a3c830953e80701d2521a6b17981833349afaeeb5394",
+      "block": 60,
+      "from": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "label": "Alice bỏ phiếu Approve (2/4 = 50%, chưa đủ)",
+      "hash": "0x28f055fb56702148cc21ad0eb444aed89121da9e17df5e9fe1b716397b9d338d",
+      "block": 61,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Bob bỏ phiếu Approve (3/4 > 50%)",
+      "hash": "0x2a67718a7ac0755d83adec58148cd67ad220d8b1c546f08a6346394361dfcb68",
+      "block": 62,
+      "from": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "label": "Chủ dự án giải ngân đợt 1",
+      "hash": "0x3074523d8b9ff9f67137f52e0aabba8d46401dc9d67a93b91529d340d3c1c08e",
+      "block": 63,
+      "from": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "label": "Bob đề xuất giải thể quỹ",
+      "hash": "0xa5ad6d23b047ebf7e59754eeed78a96525618c0dbb77d8308c5ee9a2c66f6cd2",
+      "block": 64,
+      "from": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "label": "Alice ủng hộ giải thể",
+      "hash": "0xf89b0da239c89e60ea23889c978ef83de786d66ebf6dad9af60ead3e98b1cdb9",
+      "block": 65,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Bob ủng hộ giải thể (3/4 > 50% => giải thể)",
+      "hash": "0xf97f519a34f681735a07c28ef44a596cca485368e918f2e9b940ca84c5cd99c0",
+      "block": 66,
+      "from": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "label": "Alice rút phần còn lại (2/4 của quỹ)",
+      "hash": "0x3aff66ed98a1ddceb1175c4549f3807e48ba186795d4afb678caa84de70c773a",
+      "block": 67,
+      "from": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "label": "Bob rút phần còn lại",
+      "hash": "0x37d043e338d0caa823273674f6862451dfe244940f2444dd2b3a0256a44c04ab",
+      "block": 68,
+      "from": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "label": "Carol rút phần còn lại",
+      "hash": "0x9c954fb5dcf53becf1770f8c88fcd49592d2a67933f4d49e0b2d85dbede6d9ec",
+      "block": 69,
+      "from": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
+    }
+  ]
+}
